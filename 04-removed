@@ -3,3 +3,6 @@ i deleted or removed in gitbash
 but my question is will it push changes to git(for this added text)
 answer is no .if you give git add git commit and git push then only it takes recent changes and save to git
 if you removed then changes not saved to git 
+05-file name 05-delete
+i created to delete but when i gave command git rm -rf 05-delete 
+it directly deleted from vs code but git showing that file num 05-delete in git website
