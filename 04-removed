@@ -7,8 +7,11 @@ if you removed then changes not saved to git
 i created to delete but when i gave command git rm -rf 05-delete 
 it directly deleted from vs code but git showing that file num 05-delete in git website
 only after refeshing it one more time it gets deleted (more focus need )
+
 edited this line and check git pull and try to read code in mobax
 faced issue because 
 i gave directly commands to learn git add . ; git commit -m "message" ; git push origin main
 after adding 9th line its showed error 
 first give git pull then give above command
+
+after editing 15th line my assumption of error finding goes wrong i am trying to find out now
