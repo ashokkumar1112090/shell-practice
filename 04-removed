@@ -1,3 +1,5 @@
 learning a file to remove
 i deleted or removed in gitbash 
 but my question is will it push changes to git(for this added text)
+answer is no .if you give git add git commit and git push then only it takes recent changes and save to git
+if you removed then changes not saved to git 
